@@ -1,9 +1,5 @@
 # Radar de Tecnologia
 
-Automação 100% legal (não mexe no LinkedIn, só lê fontes públicas) que roda uma vez
-por dia, coleta o que está bombando em tecnologia e manda um resumo + ideias de
-projeto/post pro seu Discord, usando a Claude API pra gerar as ideias.
-
 Fontes: Hacker News, GitHub Trending, Lobsters e dev.to.
 
 > Nota: a fonte original incluía Reddit, mas a API JSON deles hoje bloqueia
